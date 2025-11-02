@@ -15,3 +15,8 @@ Each dataset contains post IDs from the social media platform **X** and their co
 
 Please note that only post IDs and labels are provided, in compliance with platform policies.
 
+## Licensing
+
+The source code in this repository is licensed under the **MIT License**. See the `LICENSE` file for details.
+
+All data artifacts (including post IDs and paraphrased summaries) are licensed under the **Creative Commons Attribution 4.0 (CC-BY 4.0) License**. See the `datasets/DATA_LICENSE.md` file for details.
